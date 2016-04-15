@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidSueltos</string>
+    <string-array name="titulos">
+        <item>Pan</item>
+        <item>Naranajas</item>
+        <item>Zanahorias</item>
+        <item>Cereales</item>
+    </string-array>
+    <string-array name="descriociones">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto eos eveniet exp</item>
+        <item>Lorem dolor sit amet, consectetur adipisicing elit. Architecto eos eveniet exp</item>
+        <item>Lorem ipsum dolor sit amet, consectetur elit. Architecto eos eveniet exp</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. eos eveniet exp</item>
+    </string-array>
+</resources>
